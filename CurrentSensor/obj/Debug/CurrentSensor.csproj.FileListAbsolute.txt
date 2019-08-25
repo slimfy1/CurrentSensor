@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\CurrentSensor\CurrentSensor\bin\Debug\CurrentSensor.exe.config
+C:\Users\User\source\repos\CurrentSensor\CurrentSensor\bin\Debug\CurrentSensor.exe
+C:\Users\User\source\repos\CurrentSensor\CurrentSensor\bin\Debug\CurrentSensor.pdb
+C:\Users\User\source\repos\CurrentSensor\CurrentSensor\obj\Debug\CurrentSensor.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CurrentSensor\CurrentSensor\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\CurrentSensor\CurrentSensor\obj\Debug\App.g.cs
+C:\Users\User\source\repos\CurrentSensor\CurrentSensor\obj\Debug\CurrentSensor_MarkupCompile.cache
+C:\Users\User\source\repos\CurrentSensor\CurrentSensor\obj\Debug\CurrentSensor_MarkupCompile.lref
+C:\Users\User\source\repos\CurrentSensor\CurrentSensor\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\CurrentSensor\CurrentSensor\obj\Debug\CurrentSensor.g.resources
+C:\Users\User\source\repos\CurrentSensor\CurrentSensor\obj\Debug\CurrentSensor.Properties.Resources.resources
+C:\Users\User\source\repos\CurrentSensor\CurrentSensor\obj\Debug\CurrentSensor.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CurrentSensor\CurrentSensor\obj\Debug\CurrentSensor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CurrentSensor\CurrentSensor\obj\Debug\CurrentSensor.exe
+C:\Users\User\source\repos\CurrentSensor\CurrentSensor\obj\Debug\CurrentSensor.pdb
